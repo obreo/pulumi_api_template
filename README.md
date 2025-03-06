@@ -1,5 +1,5 @@
 # Pulumi Automation API Template for Python
-## Deploy your app using Pulumi API with ease
+## Deploy your app using Pulumi API with ease - In Python
 
 # Overview
 
@@ -51,10 +51,10 @@ The current supported Pulumi operations:
 The followng AWS Rsources are provided and prepared to server multi purpose scenarios:
 1. S3: Create bucket and uplaod objects.
 2. ECR registry.
-3. Lambda: Create a function, upload the code by inserting the code path as list. Supports files, and folders, and Container Image URI.
+3. Lambda: Create a function, upload the code by inserting the code path as list. Supports files, folders, and Container Image URI.
 5. API GATEWAY: Build HTTP or RestAPI. Rest API is designed to build a list of resource paths with custom lambda functions for each using dictionary of inputs.
 6. CloudFront Distribution: Supports creating S3 bucket.
 7. EventBridge: Supports scheduling a target invocation.
 
-# USEFUL LINKS
+# Useful Links
 1. [Pulumi API for Python](https://www.pulumi.com/docs/reference/pkg/python/pulumi/#module-pulumi.automation)
